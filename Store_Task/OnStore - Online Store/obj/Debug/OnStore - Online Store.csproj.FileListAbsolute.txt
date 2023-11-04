@@ -1,0 +1,15 @@
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\bin\Debug\OnStore - Online Store.exe.config
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\bin\Debug\OnStore - Online Store.exe
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\bin\Debug\OnStore - Online Store.pdb
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\OnStore - Online Store.csproj.AssemblyReference.cache
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\MainWindow.g.cs
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\App.g.cs
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\OnStore - Online Store_MarkupCompile.cache
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\OnStore - Online Store_MarkupCompile.lref
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\MainWindow.baml
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\OnStore - Online Store.g.resources
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\OnStore___Online_Store.Properties.Resources.resources
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\OnStore - Online Store.csproj.GenerateResource.cache
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\OnStore - Online Store.csproj.CoreCompileInputs.cache
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\OnStore - Online Store.exe
+C:\Users\ekber\OneDrive\Masaüstü\OnStore---Online-Store-_WPF-App-master\OnStore - Online Store\obj\Debug\OnStore - Online Store.pdb
